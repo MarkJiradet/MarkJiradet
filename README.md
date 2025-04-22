@@ -80,15 +80,6 @@ Analyzed Spotify & YouTube music trends; stored in MongoDB
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiradetNakham&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JiradetNakham&theme=tokyonight" />
-</p>
-
----
-
 ## 🌟 Fun Fact
 > I love transforming messy data into clean pipelines and meaningful insights! 😄
 
