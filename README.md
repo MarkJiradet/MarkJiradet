@@ -12,7 +12,7 @@
 - 🌱 I’m learning **Go (Fiber), API integration, and Cloud Deployment**
 - 👯 I love building **data tools and dashboards**
 - 📫 How to reach me:  
-  📧 `jiradet.n@kkumail.com`  
+  📧 `jiradet.n@kkumail.com` / `markjrdnk@gmail.com`
   📞 `094-290-4542`  
   📍 Nongbualamphu, Thailand
 
