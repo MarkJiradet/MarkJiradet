@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1B9FFF&center=true&repeat=false&width=800&lines=Data+Engineer+%7C+Data+Analyst+%7C+Python+Developer" />
 </p>
+
 ---
 
 ### 👨‍🎓 About Me
