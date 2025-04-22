@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jiradet Nakham 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1B9FFF&center=true&repeat=false&width=700&lines=Data+Engineer+%7C+Data+Analyst+%7C+ETL+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1B9FFF&center=true&repeat=false&width=700&lines=Data+Engineer+%7C+Data+Analyst+%7C+Python+Developer" />
 </p>
 
 ---
