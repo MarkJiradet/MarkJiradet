@@ -45,6 +45,7 @@
 ### 📈 Data Visualization & BI
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)
 
 
 ### 🧩 Application & UI Tools
@@ -64,10 +65,6 @@
 
 ### 📝 Documentation & Productivity
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-
-
-### 🧠 Machine Learning (Basics)
-Basic models & algorithms: Regression, Classification, Clustering
 
 ---
 
