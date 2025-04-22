@@ -1,45 +1,77 @@
-<h1 align="center">Hi 👋, I'm Jiradet Nakham</h1>
+<h1 align="center">Hi there, I'm Jiradet Nakham 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1B9FFF&center=true&repeat=false&width=800&lines=Data+Engineer+%7C+Data+Analyst+%7C+Python+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1B9FFF&center=true&repeat=false&width=500&lines=Data+Engineer+%7C+Data+Analyst+%7C+ETL+Developer" />
 </p>
 
 ---
 
-### 👨‍🎓 About Me
-- 🔭 I’m currently a **Data Engineering Intern at NMB-Minebea Thai Ltd.**
-- 🌱 I’m learning **Go (Fiber), API integration, and Cloud Deployment**
-- 👯 I love building **data tools and dashboards**
-- 📫 How to reach me:  
-  📧 `jiradet.n@kkumail.com` / `markjrdnk@gmail.com`
-  📞 `094-290-4542`  
-  📍 Nongbualamphu, Thailand
+## 💫 About Me
+🎓 I'm a recent graduate in Computer Science from Khon Kaen University  
+🌍 Based in Nongbualamphu, Thailand  
+🔍 I specialize in data engineering, analysis, and process automation  
+📊 Passionate about making data more meaningful through dashboards and clean pipelines  
+📬 Reach me at: **jiradet.n@kkumail.com**
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+## 🛠 Tech Stack
+
+**Programming:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Data Viz & Reporting:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C4B5F?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**ETL / Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=flat)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+**Web Scraping & Automation:**  
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8E8E8E?style=flat)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+
+**Machine Learning:**  
+🧠 Basic models and algorithms (Regression, Classification, Clustering)
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Projects
+
+### 🎬 IMDb Movie Analyzer  
+🔗 [GitHub Repo](#)  
+Scraped data from IMDb using Beautiful Soup & visualized genre trends using Seaborn
+
+### 🎧 Music Genre Popularity  
+🔗 [GitHub Repo](#)  
+Compared genre popularity using Spotify API, YouTube, MongoDB, and Pandas
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiradechnarkham&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jiradechnarkham&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JiradetNakham&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JiradetNakham&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔍 Featured Projects
-- 🎬 **[IMDb Movie Analyzer](https://github.com/YOUR_USERNAME/IMDb-Movie-Analysis)** — Analyze data from IMDb using Beautiful Soup, Pandas, and Seaborn  
-- 🎵 **[Music Genre Comparison](https://github.com/YOUR_USERNAME/Music-Genre-Analysis)** — Scraped music data from Spotify and YouTube and stored in MongoDB
+## ✨ Fun Fact
+> I love transforming messy datasets into beautiful dashboards and clean pipelines 😄
 
----
-
-### ☁️ Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jiradet.n@kkumail.com)
