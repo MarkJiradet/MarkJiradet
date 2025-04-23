@@ -75,7 +75,7 @@
 Scraped IMDb data using Beautiful Soup & analyzed genre trends with Seaborn
 
 ### 🎧 Music Genre Popularity
-🔗 [GitHub Repo](#)  
+🔗 [GitHub Repo](https://github.com/MarkJiradet/Compare-the-popularity-of-various-music-genres-from-Youtube-and-Spotify)  
 Analyzed Spotify & YouTube music trends; stored in MongoDB
 
 ---
