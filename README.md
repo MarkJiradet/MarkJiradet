@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm Jiradet Nakham 👋</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#1B9FFF;">Jiradet Nakham</span>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1B9FFF&center=true&repeat=false&width=700&lines=Data+Engineer+%7C+Data+Analyst+%7C+ETL+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1B9FFF&center=true&vCenter=true&width=750&lines=👨‍💻+Data+Engineer;📊+Data+Analyst;⚙️+ETL+Developer;🤖+AI+Enthusiast;🚀+Automation+Lover" />
 </p>
+
 
 ---
 
