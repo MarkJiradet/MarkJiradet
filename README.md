@@ -71,7 +71,7 @@
 ## 🔍 Featured Projects
 
 ### 🎬 IMDb Movie Analyzer
-🔗 [GitHub Repo](#)  
+🔗 [https://github.com/MarkJiradet/Analyze-information-on-250-of-the-Best-movies-in-IMDb](#)  
 Scraped IMDb data using Beautiful Soup & analyzed genre trends with Seaborn
 
 ### 🎧 Music Genre Popularity
